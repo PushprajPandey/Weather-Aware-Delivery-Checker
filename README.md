@@ -123,7 +123,6 @@ See `OUTPUT_EXPLANATION.md` for detailed field descriptions and examples.
 ├── requirements.txt       # Dependencies
 ├── .env.example          # Configuration template
 ├── .gitignore            # Git ignore rules
-├── AI_LOG.md             # Development process
 └── README.md             # This file
 ```
 
